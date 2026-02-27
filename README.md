@@ -33,7 +33,7 @@ Data Guardian employs a sophisticated multi-layered architecture optimized for e
 
 ## Hackathon Assets
 
-* **GitHub Repository:** [[INSERT LINK HERE]]
+* **GitHub Repository:** (https://github.com/Surya-64/Data-Guardian-Extension.git)
 * **YouTube Demo Video:** [[INSERT LINK HERE]]
 
 ## Usage of AMD Products/Solutions
