@@ -1,4 +1,3 @@
-# Data-Guardian-Extension-
 # Data Guardian (Individual Submission - AMD Slingshot)
 
 **Author:** VANAMALA SURYA PRAKASH REDDY
