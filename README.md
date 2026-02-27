@@ -63,7 +63,7 @@ The limitations encountered during development have formed a robust strategic ro
 
 1.  Clone this repository to your local machine.
     ```bash
-    git clone [INSERT_REPO_LINK]
+    git clone https://github.com/Surya-64/Data-Guardian-Extension.git
     ```
 2.  Download the required `transformers.min.js` file into your project folder. (We are using an essential direct download command here to bypass standard web download quirks during development).
     ```bash
